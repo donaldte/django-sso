@@ -10,13 +10,14 @@ Nous utiliserons le package `django-allauth`
 
 # Illustration
 
+![Screenshot from 2022-11-16 02-08-56](https://user-images.githubusercontent.com/81464575/202065840-b52a1e2a-0852-4b1b-aca3-180576dfcf8f.png)
+
 # installation
 
 1. clonez le projet
 
 ```
 git clone
-
 ```
 
 2. Entrez dans le projet
@@ -24,13 +25,11 @@ git clone
 ```
 cd django-sso
 ```
-```
 
 3. Creez un environement virtuel
 
 ```
 python3 -m venv venv
-
 ``
 
 4. Activer l'enviroment virtuel
@@ -39,20 +38,17 @@ Linux
 
 ```
 source venv/bin/activate
-
 ```
 
 Window
 
 ```
 source  venv\script\activate
-
 ```
 5. install les requirements
 
 ```
 pip install -r requirements.txt
-
 ```
 
 Abonne toi a ma chaine [Youtube](youtube.com/@donaldprogrammeur)
