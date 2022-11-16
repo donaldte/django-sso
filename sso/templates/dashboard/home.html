@@ -1,0 +1,10 @@
+{% extends 'account/base.html' %}
+
+{% block content %}
+    <div class="text-center">
+        <h2>Home</h2>
+        <p>Bonjour {{ user.first_name }}!</p>
+        <p>Votre nom : {{ user }}</p>
+        <a class="btn btn-dark" href="{% url 'socialaccount_connections' %}">Parametres</a>
+    </div>
+{% endblock %}
