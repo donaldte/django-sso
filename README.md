@@ -30,7 +30,7 @@ cd django-sso
 
 ```
 python3 -m venv venv
-``
+```
 
 4. Activer l'enviroment virtuel
 
