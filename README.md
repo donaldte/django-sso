@@ -51,5 +51,5 @@ source  venv\script\activate
 pip install -r requirements.txt
 ```
 
-Abonne toi a ma chaine [Youtube](youtube.com/@donaldprogrammeur)
+Abonne toi a ma chaine [Youtube](https://youtube.com/@donaldprogrammeur)
 
